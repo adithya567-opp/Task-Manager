@@ -1,0 +1,21 @@
+.hero{
+    height: 80vh;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    justify-content: center;
+    text-align:center;
+}
+
+.profile{
+    width: 140px;
+    height: 140px;
+  border-radius: 40%;
+  margin-bottom: 20px;
+}
+
+.buttons button {
+  margin: 10px;
+  background: var(--primary);
+  color: white;
+}

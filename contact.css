@@ -1,0 +1,15 @@
+form {
+  max-width: 400px;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  background: url("https://images.unsplash.com/photo-1521791136064-7986c2920216")
+    no-repeat center center/cover;
+}
+
+input, textarea {
+  padding: 10px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+}
